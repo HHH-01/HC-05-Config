@@ -1,4 +1,3 @@
-//NExt action:See reference 2
 
 //Circuit SetupL Need a voltage devider into RXD | Need Enable Pin connected to VCC
 //Need to set up the Baud Rate for Command Mode as 38400 regardless the Baud Rate on the chip
