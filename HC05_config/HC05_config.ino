@@ -3,6 +3,7 @@
 //Circuit SetupL Need a voltage devider into RXD | Need Enable Pin connected to VCC
 //Need to set up the Baud Rate for Command Mode as 38400 regardless the Baud Rate on the chip
 //To change the Baudrate using command AT+UART=9600,1,0 or AT+UART=9600,0,0  (9600 baud rate, 1 stop bit, 0 parity)
+//Debugging Setting: Both NL&CR
 
 /*
  * Master Mode Commands: 
